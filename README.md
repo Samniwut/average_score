@@ -1,5 +1,5 @@
 
-# Project average score
+# Project average score :: C :: 
    funtion Program
  -  รับจำนวนคะแนนนักเรียน N คน 
  -  แสดงผลคะแนนนักเรียนทั้งหมด 
